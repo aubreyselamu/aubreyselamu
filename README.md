@@ -23,9 +23,9 @@ githubUsername: 'aubreyselamu'
 
 ### I am a Software Engineer Fellow at Springboard
 - 🔭 I’m currently working on my first capstone project :grin:
-- 🌱 I’m currently learning MERN Stack Development.
+- 🌱 I’m currently learning Node, React and Express.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects and Receive my First Job Offer 🤞
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
