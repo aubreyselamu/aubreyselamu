@@ -19,7 +19,7 @@
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: aubrey.selamu@gmail.com
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love learning about other cultures!
+- ⚡ Fun fact: I love learning about different cultures!
 
 <br>
 
