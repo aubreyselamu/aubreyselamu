@@ -13,5 +13,5 @@ githubUsername: 'aubreyselamu'
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/aubreyselamu" />
-</p>
+<br>
+<a href="https://www.linkedin.com/in/aubreysbell/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
