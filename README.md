@@ -1,16 +1,14 @@
-### Hi there 👋
+---
+title: Aubrey Selamu-Bell
+date: '2021-23-12'
+spoiler: Dynamic Realtime Readme Template
+categories: ["dynamic-realtime", "all-profile"]
+githubUsername: 'aubreyselamu'
+---
 
-<!--
-**aubreyselamu/aubreyselamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+<p>
+  <h1 align="center"><b>Hello there, I'm Aubrey 👋</b></h1>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
