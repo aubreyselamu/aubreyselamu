@@ -1,13 +1,3 @@
----
-title: Aubrey Selamu-Bell
-date: '2021-23-12'
-spoiler: Dynamic Realtime Readme Template
-categories: ["dynamic-realtime", "all-profile"]
-githubUsername: 'aubreyselamu'
----
-
-
-
   <h1 align="center"><b>Hello there, I'm Aubrey 👋</b></h1>
 </p>
 
