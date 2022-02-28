@@ -14,7 +14,7 @@
 ### I am a Software Engineer Fellow at Springboard
 - 🌱 I’m currently learning Node, React and Express.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Contribute to Open Source projects and Receive my First Job Offer
+- 🥅 2022 Goals: Contribute to Open Source projects and Receive my First Job Offer
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: aubrey.selamu@gmail.com
 - 🧗 I try to: Go beyond and push the bounds
